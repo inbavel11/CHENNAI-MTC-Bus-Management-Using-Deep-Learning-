@@ -1,0 +1,1001 @@
+route,day_of_week,start_area,end_area,arrival_time,departure_time,is_on_time
+Route4,Thursday,Anna Nagar,Velachery,08:00,09:00,0
+Route5,Thursday,Nungambakkam,Mylapore,10:00,17:00,1
+Route3,Thursday,T. Nagar,Adyar,19:00,12:00,1
+Route5,Thursday,Tambaram,Mylapore,16:00,07:00,0
+Route5,Friday,Adyar,Adyar,07:00,13:00,0
+Route2,Friday,Velachery,Tambaram,17:00,11:00,0
+Route3,Sunday,Mylapore,Nungambakkam,08:00,08:00,1
+Route3,Tuesday,Nungambakkam,Velachery,20:00,14:00,1
+Route3,Monday,Adyar,Velachery,20:00,10:00,0
+Route5,Thursday,Velachery,Tambaram,20:00,13:00,0
+Route4,Sunday,Mylapore,T. Nagar,09:00,12:00,0
+Route3,Tuesday,Mylapore,Nungambakkam,12:00,19:00,0
+Route5,Monday,Adyar,Mylapore,18:00,13:00,1
+Route2,Saturday,Nungambakkam,Tambaram,08:00,12:00,0
+Route4,Wednesday,Anna Nagar,Mylapore,21:00,08:00,1
+Route2,Friday,Anna Nagar,Anna Nagar,20:00,07:00,0
+Route4,Saturday,Mylapore,Velachery,14:00,21:00,0
+Route5,Monday,Anna Nagar,Mylapore,13:00,12:00,0
+Route1,Saturday,T. Nagar,Adyar,09:00,08:00,0
+Route4,Wednesday,Mylapore,Mylapore,18:00,08:00,0
+Route2,Sunday,Mylapore,Anna Nagar,06:00,07:00,1
+Route5,Monday,Velachery,Nungambakkam,06:00,09:00,0
+Route4,Saturday,Anna Nagar,Velachery,06:00,21:00,0
+Route1,Friday,Nungambakkam,Tambaram,06:00,13:00,0
+Route1,Friday,Mylapore,Anna Nagar,21:00,17:00,1
+Route3,Tuesday,Nungambakkam,Velachery,13:00,06:00,1
+Route3,Saturday,T. Nagar,Mylapore,08:00,06:00,1
+Route2,Thursday,Velachery,Nungambakkam,20:00,17:00,1
+Route4,Saturday,Adyar,T. Nagar,11:00,19:00,0
+Route4,Sunday,Nungambakkam,Nungambakkam,08:00,10:00,0
+Route3,Monday,Mylapore,T. Nagar,16:00,16:00,0
+Route4,Monday,T. Nagar,Adyar,10:00,10:00,1
+Route4,Sunday,Tambaram,Nungambakkam,18:00,16:00,0
+Route1,Saturday,T. Nagar,Velachery,20:00,17:00,0
+Route3,Sunday,T. Nagar,T. Nagar,19:00,06:00,1
+Route5,Wednesday,Velachery,Tambaram,18:00,11:00,1
+Route3,Sunday,Adyar,Velachery,20:00,06:00,1
+Route5,Friday,Tambaram,Tambaram,12:00,10:00,0
+Route1,Sunday,Anna Nagar,Nungambakkam,21:00,14:00,0
+Route2,Monday,Anna Nagar,Tambaram,07:00,17:00,1
+Route4,Friday,Nungambakkam,T. Nagar,21:00,19:00,0
+Route1,Monday,T. Nagar,Velachery,11:00,10:00,1
+Route4,Tuesday,Velachery,Mylapore,18:00,11:00,1
+Route2,Thursday,Velachery,Anna Nagar,11:00,13:00,0
+Route2,Monday,Anna Nagar,T. Nagar,16:00,16:00,1
+Route1,Friday,Nungambakkam,T. Nagar,08:00,06:00,1
+Route2,Tuesday,Nungambakkam,Mylapore,11:00,19:00,1
+Route5,Monday,Nungambakkam,Velachery,15:00,07:00,0
+Route2,Wednesday,Tambaram,Velachery,15:00,21:00,1
+Route4,Sunday,Adyar,Nungambakkam,21:00,14:00,1
+Route4,Thursday,Tambaram,Tambaram,19:00,08:00,1
+Route4,Monday,Mylapore,Nungambakkam,10:00,11:00,1
+Route4,Tuesday,Mylapore,Mylapore,21:00,10:00,1
+Route5,Wednesday,Adyar,Nungambakkam,17:00,16:00,1
+Route3,Saturday,Anna Nagar,Mylapore,07:00,07:00,1
+Route1,Tuesday,Adyar,Velachery,14:00,19:00,0
+Route4,Sunday,Velachery,Tambaram,13:00,20:00,0
+Route2,Tuesday,Mylapore,Nungambakkam,08:00,12:00,1
+Route4,Wednesday,T. Nagar,T. Nagar,13:00,09:00,0
+Route2,Tuesday,T. Nagar,Adyar,19:00,06:00,0
+Route2,Wednesday,Anna Nagar,Anna Nagar,14:00,18:00,1
+Route4,Monday,Velachery,T. Nagar,19:00,09:00,0
+Route5,Wednesday,Tambaram,Velachery,20:00,11:00,1
+Route2,Wednesday,Velachery,Anna Nagar,08:00,12:00,1
+Route2,Thursday,T. Nagar,Adyar,08:00,20:00,1
+Route4,Wednesday,T. Nagar,Adyar,07:00,12:00,1
+Route2,Wednesday,Mylapore,Tambaram,13:00,19:00,1
+Route2,Saturday,Velachery,Anna Nagar,15:00,12:00,0
+Route4,Monday,Velachery,Tambaram,06:00,08:00,1
+Route4,Sunday,T. Nagar,T. Nagar,13:00,21:00,0
+Route1,Thursday,Tambaram,Mylapore,12:00,11:00,1
+Route5,Saturday,Anna Nagar,Mylapore,19:00,18:00,1
+Route5,Friday,Nungambakkam,Mylapore,12:00,13:00,1
+Route2,Monday,Anna Nagar,Anna Nagar,08:00,09:00,0
+Route5,Monday,Velachery,Mylapore,06:00,18:00,1
+Route2,Friday,Anna Nagar,T. Nagar,09:00,13:00,1
+Route1,Sunday,T. Nagar,Tambaram,14:00,07:00,1
+Route4,Wednesday,T. Nagar,Anna Nagar,10:00,20:00,1
+Route4,Saturday,Velachery,Tambaram,06:00,15:00,0
+Route4,Tuesday,Velachery,Anna Nagar,20:00,14:00,1
+Route5,Thursday,Nungambakkam,Tambaram,10:00,14:00,0
+Route1,Tuesday,Nungambakkam,Adyar,18:00,13:00,1
+Route5,Friday,Mylapore,Tambaram,13:00,15:00,0
+Route5,Monday,Velachery,Mylapore,13:00,19:00,0
+Route1,Sunday,Tambaram,Adyar,10:00,18:00,1
+Route1,Monday,Anna Nagar,Tambaram,17:00,15:00,1
+Route1,Thursday,Velachery,Anna Nagar,21:00,06:00,0
+Route1,Monday,Adyar,Anna Nagar,14:00,07:00,1
+Route4,Monday,Mylapore,Anna Nagar,20:00,11:00,1
+Route3,Thursday,Adyar,Velachery,06:00,15:00,1
+Route3,Saturday,T. Nagar,T. Nagar,09:00,10:00,0
+Route1,Saturday,Nungambakkam,Anna Nagar,08:00,17:00,1
+Route3,Thursday,Anna Nagar,Adyar,07:00,19:00,1
+Route3,Sunday,Velachery,Anna Nagar,20:00,14:00,1
+Route1,Friday,Adyar,Velachery,13:00,10:00,0
+Route3,Monday,Anna Nagar,Mylapore,12:00,07:00,1
+Route5,Sunday,T. Nagar,Adyar,14:00,15:00,0
+Route2,Monday,Nungambakkam,Velachery,07:00,09:00,1
+Route2,Friday,Tambaram,Mylapore,19:00,14:00,0
+Route1,Saturday,Mylapore,Nungambakkam,19:00,06:00,1
+Route4,Sunday,Anna Nagar,Nungambakkam,21:00,16:00,1
+Route1,Wednesday,Anna Nagar,Adyar,09:00,06:00,0
+Route4,Wednesday,Tambaram,Tambaram,19:00,17:00,0
+Route2,Wednesday,Anna Nagar,T. Nagar,20:00,12:00,0
+Route1,Saturday,T. Nagar,T. Nagar,11:00,16:00,1
+Route5,Saturday,T. Nagar,Velachery,16:00,08:00,1
+Route3,Friday,Tambaram,Mylapore,08:00,15:00,1
+Route4,Monday,Mylapore,T. Nagar,13:00,07:00,1
+Route3,Friday,Velachery,Mylapore,08:00,14:00,0
+Route3,Friday,Adyar,Mylapore,19:00,08:00,1
+Route1,Saturday,Velachery,Velachery,17:00,21:00,1
+Route3,Wednesday,Anna Nagar,Velachery,18:00,07:00,1
+Route5,Tuesday,Adyar,Velachery,18:00,17:00,1
+Route3,Monday,Tambaram,T. Nagar,21:00,13:00,1
+Route1,Saturday,Tambaram,Nungambakkam,07:00,15:00,1
+Route5,Wednesday,Mylapore,Velachery,18:00,11:00,1
+Route2,Sunday,Adyar,T. Nagar,18:00,11:00,0
+Route3,Tuesday,T. Nagar,Velachery,08:00,15:00,1
+Route1,Tuesday,Adyar,Anna Nagar,16:00,16:00,1
+Route2,Saturday,Anna Nagar,Mylapore,11:00,12:00,1
+Route2,Thursday,T. Nagar,Velachery,21:00,12:00,1
+Route4,Monday,Nungambakkam,Adyar,07:00,16:00,0
+Route5,Tuesday,Nungambakkam,Mylapore,13:00,18:00,0
+Route3,Saturday,Nungambakkam,Mylapore,06:00,20:00,0
+Route1,Saturday,Tambaram,Velachery,12:00,11:00,0
+Route4,Wednesday,Adyar,Nungambakkam,07:00,09:00,0
+Route5,Sunday,Nungambakkam,Tambaram,15:00,16:00,0
+Route4,Thursday,Velachery,Nungambakkam,17:00,14:00,1
+Route5,Monday,Mylapore,Velachery,21:00,11:00,0
+Route5,Friday,Velachery,Mylapore,11:00,09:00,0
+Route3,Sunday,Nungambakkam,Adyar,17:00,17:00,1
+Route5,Sunday,Mylapore,Mylapore,07:00,08:00,0
+Route4,Wednesday,Anna Nagar,Nungambakkam,07:00,09:00,1
+Route5,Tuesday,Velachery,Adyar,15:00,08:00,1
+Route3,Tuesday,Adyar,T. Nagar,18:00,20:00,0
+Route3,Wednesday,Adyar,Anna Nagar,13:00,07:00,1
+Route4,Saturday,Velachery,Mylapore,20:00,19:00,0
+Route2,Tuesday,Nungambakkam,Velachery,20:00,10:00,0
+Route2,Thursday,Adyar,T. Nagar,17:00,07:00,1
+Route5,Monday,Anna Nagar,Anna Nagar,07:00,11:00,1
+Route1,Sunday,T. Nagar,Velachery,12:00,08:00,0
+Route5,Sunday,Nungambakkam,Tambaram,08:00,11:00,1
+Route4,Thursday,Anna Nagar,Velachery,13:00,20:00,1
+Route4,Tuesday,Mylapore,Adyar,12:00,16:00,0
+Route4,Sunday,Anna Nagar,Adyar,19:00,15:00,0
+Route4,Friday,Nungambakkam,Tambaram,13:00,14:00,1
+Route4,Monday,Mylapore,T. Nagar,19:00,06:00,0
+Route3,Monday,Nungambakkam,Anna Nagar,12:00,21:00,0
+Route2,Sunday,Adyar,Velachery,16:00,21:00,0
+Route4,Wednesday,T. Nagar,Adyar,11:00,11:00,0
+Route1,Sunday,Nungambakkam,T. Nagar,18:00,14:00,0
+Route1,Wednesday,Nungambakkam,Tambaram,12:00,16:00,0
+Route1,Sunday,Adyar,Nungambakkam,10:00,09:00,0
+Route1,Friday,Tambaram,Mylapore,12:00,16:00,1
+Route3,Saturday,Adyar,Nungambakkam,06:00,17:00,0
+Route1,Monday,Mylapore,Nungambakkam,06:00,07:00,1
+Route4,Sunday,Adyar,Adyar,14:00,18:00,1
+Route5,Friday,Adyar,Tambaram,19:00,09:00,1
+Route1,Wednesday,T. Nagar,Velachery,10:00,06:00,0
+Route3,Wednesday,Adyar,Nungambakkam,18:00,08:00,0
+Route3,Monday,Nungambakkam,Nungambakkam,10:00,15:00,1
+Route1,Thursday,T. Nagar,Anna Nagar,08:00,14:00,0
+Route5,Sunday,Velachery,Adyar,10:00,15:00,1
+Route1,Tuesday,Tambaram,Adyar,08:00,10:00,0
+Route3,Wednesday,T. Nagar,Velachery,14:00,20:00,0
+Route2,Saturday,Mylapore,Mylapore,14:00,16:00,1
+Route4,Saturday,Velachery,T. Nagar,11:00,11:00,1
+Route3,Wednesday,T. Nagar,Anna Nagar,20:00,08:00,1
+Route1,Thursday,T. Nagar,Adyar,06:00,21:00,0
+Route4,Thursday,Tambaram,Anna Nagar,12:00,10:00,1
+Route1,Friday,Nungambakkam,Adyar,12:00,16:00,0
+Route1,Saturday,Mylapore,Anna Nagar,21:00,13:00,0
+Route2,Friday,Anna Nagar,Tambaram,19:00,11:00,0
+Route4,Saturday,Anna Nagar,Nungambakkam,15:00,09:00,1
+Route4,Sunday,T. Nagar,Adyar,15:00,07:00,1
+Route2,Sunday,Adyar,Anna Nagar,09:00,19:00,1
+Route3,Tuesday,Mylapore,T. Nagar,13:00,14:00,0
+Route1,Sunday,Velachery,Tambaram,11:00,18:00,0
+Route5,Tuesday,Adyar,Tambaram,09:00,17:00,1
+Route1,Sunday,Adyar,T. Nagar,09:00,06:00,0
+Route1,Monday,Mylapore,Anna Nagar,21:00,06:00,0
+Route3,Sunday,Nungambakkam,Velachery,07:00,18:00,1
+Route1,Friday,T. Nagar,T. Nagar,19:00,09:00,1
+Route2,Wednesday,T. Nagar,Anna Nagar,07:00,12:00,1
+Route2,Friday,T. Nagar,T. Nagar,17:00,06:00,0
+Route4,Wednesday,T. Nagar,T. Nagar,19:00,14:00,0
+Route5,Thursday,Anna Nagar,Adyar,09:00,09:00,0
+Route1,Friday,T. Nagar,Anna Nagar,10:00,08:00,0
+Route1,Thursday,Anna Nagar,Velachery,13:00,06:00,0
+Route3,Tuesday,Anna Nagar,Nungambakkam,20:00,15:00,1
+Route2,Tuesday,Nungambakkam,Adyar,11:00,09:00,0
+Route5,Monday,T. Nagar,T. Nagar,19:00,14:00,0
+Route4,Sunday,Tambaram,Nungambakkam,20:00,18:00,0
+Route2,Friday,Velachery,Mylapore,09:00,19:00,1
+Route4,Thursday,Adyar,Nungambakkam,18:00,15:00,1
+Route3,Wednesday,Anna Nagar,T. Nagar,16:00,21:00,1
+Route3,Tuesday,Mylapore,T. Nagar,12:00,21:00,0
+Route1,Sunday,Mylapore,Anna Nagar,13:00,11:00,1
+Route5,Tuesday,Velachery,Anna Nagar,07:00,21:00,1
+Route4,Wednesday,Mylapore,Adyar,17:00,11:00,1
+Route2,Sunday,Tambaram,Velachery,12:00,06:00,0
+Route3,Sunday,Mylapore,Adyar,20:00,15:00,1
+Route1,Thursday,Adyar,Tambaram,19:00,07:00,0
+Route1,Thursday,Adyar,T. Nagar,07:00,16:00,0
+Route4,Friday,Anna Nagar,Nungambakkam,07:00,11:00,1
+Route3,Friday,T. Nagar,Mylapore,13:00,07:00,0
+Route5,Saturday,Nungambakkam,T. Nagar,07:00,08:00,1
+Route3,Saturday,Tambaram,T. Nagar,20:00,09:00,0
+Route4,Monday,Anna Nagar,Adyar,16:00,16:00,1
+Route4,Tuesday,Tambaram,Mylapore,14:00,10:00,1
+Route3,Friday,T. Nagar,Mylapore,17:00,20:00,1
+Route4,Thursday,Mylapore,Mylapore,06:00,14:00,0
+Route3,Wednesday,Mylapore,Adyar,20:00,17:00,1
+Route2,Thursday,Nungambakkam,T. Nagar,14:00,20:00,0
+Route3,Tuesday,T. Nagar,Adyar,20:00,20:00,1
+Route3,Saturday,Anna Nagar,Anna Nagar,06:00,09:00,0
+Route4,Thursday,Nungambakkam,Anna Nagar,15:00,18:00,0
+Route4,Monday,T. Nagar,Adyar,18:00,16:00,1
+Route1,Tuesday,Velachery,Mylapore,15:00,14:00,1
+Route1,Saturday,Adyar,T. Nagar,07:00,16:00,1
+Route2,Wednesday,Nungambakkam,Adyar,21:00,15:00,1
+Route1,Saturday,Nungambakkam,Adyar,11:00,08:00,1
+Route3,Sunday,Anna Nagar,Adyar,11:00,13:00,0
+Route4,Monday,Tambaram,Tambaram,06:00,17:00,1
+Route1,Tuesday,Velachery,Anna Nagar,12:00,06:00,1
+Route1,Wednesday,Anna Nagar,Nungambakkam,13:00,16:00,0
+Route2,Monday,T. Nagar,Mylapore,07:00,14:00,1
+Route2,Saturday,T. Nagar,Velachery,13:00,14:00,1
+Route3,Monday,T. Nagar,Nungambakkam,14:00,15:00,0
+Route4,Tuesday,T. Nagar,Mylapore,11:00,07:00,1
+Route2,Friday,Tambaram,Velachery,10:00,09:00,1
+Route1,Monday,Velachery,Tambaram,17:00,18:00,1
+Route4,Sunday,Mylapore,Adyar,14:00,13:00,0
+Route4,Monday,Adyar,Tambaram,21:00,12:00,1
+Route1,Saturday,Tambaram,Tambaram,18:00,06:00,0
+Route2,Saturday,Tambaram,Nungambakkam,17:00,10:00,1
+Route1,Wednesday,Mylapore,T. Nagar,16:00,12:00,0
+Route4,Saturday,Mylapore,Nungambakkam,14:00,20:00,1
+Route5,Thursday,Adyar,Anna Nagar,06:00,21:00,0
+Route5,Tuesday,Adyar,Velachery,16:00,09:00,0
+Route3,Tuesday,Mylapore,Adyar,08:00,20:00,0
+Route1,Friday,T. Nagar,Nungambakkam,14:00,21:00,0
+Route1,Friday,Tambaram,Velachery,16:00,20:00,0
+Route3,Tuesday,Anna Nagar,Mylapore,07:00,06:00,0
+Route3,Sunday,Adyar,Velachery,17:00,14:00,1
+Route3,Friday,Adyar,Mylapore,09:00,19:00,1
+Route4,Wednesday,Mylapore,Nungambakkam,09:00,10:00,0
+Route1,Saturday,Velachery,Anna Nagar,07:00,16:00,0
+Route4,Tuesday,Anna Nagar,Nungambakkam,20:00,21:00,0
+Route3,Friday,Anna Nagar,Mylapore,08:00,07:00,0
+Route1,Tuesday,Adyar,Velachery,18:00,13:00,1
+Route4,Thursday,T. Nagar,Velachery,08:00,16:00,0
+Route4,Monday,Velachery,Mylapore,06:00,18:00,1
+Route3,Saturday,Anna Nagar,Tambaram,11:00,07:00,1
+Route1,Tuesday,Adyar,Anna Nagar,21:00,08:00,0
+Route3,Monday,Anna Nagar,T. Nagar,13:00,19:00,0
+Route1,Friday,Nungambakkam,Adyar,17:00,15:00,1
+Route5,Monday,Velachery,Velachery,08:00,06:00,1
+Route2,Saturday,Velachery,Adyar,10:00,16:00,0
+Route2,Tuesday,Nungambakkam,T. Nagar,06:00,21:00,0
+Route2,Thursday,Tambaram,Nungambakkam,15:00,07:00,0
+Route3,Sunday,Nungambakkam,Adyar,12:00,19:00,1
+Route5,Friday,Mylapore,T. Nagar,15:00,21:00,1
+Route1,Tuesday,Mylapore,Mylapore,18:00,12:00,0
+Route4,Saturday,Adyar,Tambaram,06:00,15:00,1
+Route1,Friday,Velachery,Velachery,17:00,07:00,1
+Route4,Wednesday,Tambaram,T. Nagar,16:00,11:00,0
+Route1,Monday,Tambaram,Adyar,14:00,20:00,0
+Route5,Sunday,Anna Nagar,Velachery,13:00,08:00,1
+Route4,Saturday,Anna Nagar,Tambaram,12:00,09:00,1
+Route3,Wednesday,Nungambakkam,Mylapore,15:00,16:00,0
+Route1,Tuesday,Tambaram,Nungambakkam,20:00,20:00,0
+Route1,Thursday,Nungambakkam,Velachery,12:00,18:00,0
+Route4,Friday,Nungambakkam,Nungambakkam,10:00,13:00,0
+Route3,Monday,Anna Nagar,T. Nagar,10:00,19:00,0
+Route3,Friday,Velachery,Tambaram,16:00,08:00,1
+Route5,Sunday,Nungambakkam,Adyar,18:00,15:00,1
+Route3,Tuesday,T. Nagar,Tambaram,10:00,11:00,1
+Route3,Friday,Velachery,Tambaram,06:00,06:00,1
+Route3,Monday,Tambaram,Anna Nagar,13:00,12:00,0
+Route2,Tuesday,Tambaram,Tambaram,17:00,13:00,0
+Route5,Friday,Nungambakkam,Tambaram,16:00,16:00,0
+Route1,Thursday,Velachery,Velachery,06:00,19:00,1
+Route4,Saturday,Anna Nagar,Adyar,09:00,13:00,1
+Route1,Tuesday,Anna Nagar,Velachery,20:00,08:00,1
+Route5,Saturday,Mylapore,Velachery,14:00,19:00,0
+Route4,Tuesday,Tambaram,T. Nagar,19:00,15:00,1
+Route5,Thursday,Adyar,Velachery,14:00,06:00,0
+Route3,Saturday,Mylapore,Anna Nagar,10:00,14:00,0
+Route4,Wednesday,Anna Nagar,Anna Nagar,09:00,18:00,0
+Route3,Monday,Velachery,Nungambakkam,08:00,11:00,0
+Route1,Wednesday,Anna Nagar,T. Nagar,08:00,16:00,0
+Route1,Friday,Velachery,Nungambakkam,17:00,14:00,0
+Route4,Thursday,Mylapore,Nungambakkam,10:00,12:00,1
+Route4,Wednesday,Tambaram,Mylapore,15:00,06:00,0
+Route5,Tuesday,Anna Nagar,Adyar,06:00,17:00,0
+Route5,Friday,Nungambakkam,Adyar,10:00,17:00,1
+Route3,Friday,Velachery,Velachery,11:00,06:00,0
+Route4,Wednesday,Tambaram,Velachery,21:00,11:00,1
+Route1,Wednesday,Adyar,Mylapore,12:00,10:00,1
+Route5,Thursday,Velachery,Velachery,17:00,14:00,1
+Route5,Monday,Mylapore,Adyar,21:00,07:00,0
+Route1,Wednesday,Adyar,Nungambakkam,14:00,13:00,0
+Route5,Sunday,Adyar,Tambaram,08:00,16:00,1
+Route3,Wednesday,T. Nagar,Anna Nagar,20:00,10:00,0
+Route4,Saturday,Anna Nagar,Tambaram,21:00,07:00,0
+Route1,Tuesday,Velachery,Tambaram,07:00,18:00,1
+Route4,Sunday,Adyar,Adyar,21:00,15:00,1
+Route5,Sunday,T. Nagar,Tambaram,19:00,16:00,0
+Route5,Saturday,Mylapore,Mylapore,08:00,16:00,1
+Route1,Saturday,Tambaram,T. Nagar,17:00,17:00,1
+Route3,Friday,Nungambakkam,Velachery,14:00,11:00,1
+Route2,Monday,Nungambakkam,T. Nagar,17:00,15:00,0
+Route1,Tuesday,Velachery,Nungambakkam,12:00,13:00,0
+Route2,Thursday,Adyar,Anna Nagar,14:00,09:00,0
+Route2,Sunday,Nungambakkam,Velachery,18:00,07:00,1
+Route3,Thursday,Anna Nagar,Tambaram,07:00,17:00,0
+Route2,Wednesday,Nungambakkam,Anna Nagar,10:00,16:00,1
+Route2,Wednesday,Nungambakkam,Velachery,18:00,10:00,0
+Route3,Thursday,Nungambakkam,Mylapore,09:00,20:00,0
+Route2,Wednesday,T. Nagar,Mylapore,20:00,17:00,1
+Route2,Monday,Adyar,Mylapore,07:00,07:00,0
+Route2,Saturday,Anna Nagar,Mylapore,21:00,07:00,1
+Route1,Wednesday,Adyar,Tambaram,14:00,20:00,0
+Route1,Friday,Velachery,T. Nagar,14:00,11:00,0
+Route1,Wednesday,Velachery,Velachery,11:00,21:00,1
+Route3,Tuesday,Velachery,Tambaram,16:00,16:00,1
+Route5,Monday,Mylapore,Mylapore,11:00,15:00,1
+Route2,Tuesday,Nungambakkam,Nungambakkam,13:00,14:00,0
+Route2,Tuesday,Mylapore,T. Nagar,11:00,18:00,0
+Route3,Friday,T. Nagar,Nungambakkam,06:00,09:00,0
+Route2,Monday,Velachery,Anna Nagar,09:00,11:00,1
+Route1,Monday,Anna Nagar,Nungambakkam,18:00,21:00,1
+Route5,Monday,Adyar,Anna Nagar,12:00,12:00,1
+Route4,Monday,Nungambakkam,Anna Nagar,18:00,18:00,0
+Route2,Monday,Tambaram,Mylapore,18:00,16:00,0
+Route1,Friday,Anna Nagar,Anna Nagar,07:00,11:00,1
+Route4,Wednesday,Nungambakkam,Adyar,14:00,13:00,0
+Route5,Tuesday,Mylapore,Velachery,13:00,09:00,1
+Route4,Monday,Mylapore,Velachery,13:00,17:00,0
+Route1,Sunday,Anna Nagar,Mylapore,12:00,20:00,0
+Route4,Wednesday,Mylapore,Adyar,09:00,06:00,1
+Route3,Wednesday,Velachery,Nungambakkam,07:00,12:00,0
+Route4,Tuesday,T. Nagar,Tambaram,08:00,08:00,0
+Route2,Friday,Adyar,Nungambakkam,17:00,19:00,1
+Route2,Thursday,T. Nagar,Tambaram,11:00,11:00,1
+Route3,Thursday,Nungambakkam,Anna Nagar,17:00,07:00,0
+Route1,Wednesday,Adyar,T. Nagar,17:00,14:00,1
+Route2,Saturday,Adyar,Tambaram,10:00,06:00,0
+Route5,Saturday,T. Nagar,T. Nagar,17:00,11:00,1
+Route2,Tuesday,Anna Nagar,Velachery,13:00,11:00,0
+Route2,Thursday,Adyar,T. Nagar,11:00,10:00,0
+Route1,Wednesday,T. Nagar,Velachery,11:00,21:00,1
+Route4,Friday,Adyar,Adyar,06:00,18:00,0
+Route2,Thursday,Tambaram,Adyar,09:00,10:00,0
+Route3,Wednesday,Anna Nagar,Mylapore,10:00,06:00,1
+Route4,Wednesday,Velachery,Mylapore,17:00,15:00,1
+Route5,Monday,Adyar,Anna Nagar,16:00,17:00,0
+Route1,Friday,Tambaram,Tambaram,08:00,10:00,1
+Route5,Monday,Velachery,Anna Nagar,18:00,07:00,1
+Route4,Tuesday,Velachery,Velachery,14:00,12:00,0
+Route4,Monday,Nungambakkam,Anna Nagar,06:00,08:00,0
+Route4,Sunday,Adyar,T. Nagar,11:00,18:00,1
+Route5,Monday,T. Nagar,Velachery,11:00,20:00,1
+Route4,Sunday,Adyar,Mylapore,15:00,09:00,1
+Route5,Thursday,Tambaram,Adyar,10:00,08:00,0
+Route4,Saturday,Velachery,Mylapore,17:00,08:00,0
+Route3,Wednesday,Adyar,Tambaram,20:00,09:00,0
+Route4,Sunday,T. Nagar,Velachery,10:00,10:00,0
+Route5,Friday,Nungambakkam,Velachery,15:00,06:00,0
+Route2,Monday,Adyar,T. Nagar,19:00,09:00,0
+Route4,Sunday,Anna Nagar,Tambaram,18:00,17:00,0
+Route2,Friday,Nungambakkam,Adyar,10:00,17:00,1
+Route3,Saturday,T. Nagar,Nungambakkam,11:00,16:00,1
+Route1,Saturday,Tambaram,Velachery,13:00,13:00,0
+Route3,Monday,Velachery,Velachery,07:00,15:00,0
+Route4,Tuesday,Adyar,T. Nagar,11:00,12:00,0
+Route2,Monday,T. Nagar,Anna Nagar,06:00,14:00,1
+Route2,Thursday,Nungambakkam,Adyar,09:00,10:00,0
+Route5,Sunday,Anna Nagar,Mylapore,19:00,18:00,1
+Route2,Wednesday,T. Nagar,Tambaram,15:00,20:00,1
+Route5,Tuesday,Mylapore,Velachery,08:00,15:00,1
+Route1,Monday,Anna Nagar,Velachery,14:00,09:00,1
+Route4,Friday,Nungambakkam,Mylapore,08:00,13:00,1
+Route5,Tuesday,Tambaram,Adyar,20:00,14:00,0
+Route1,Sunday,Velachery,Anna Nagar,11:00,18:00,0
+Route2,Tuesday,Nungambakkam,Velachery,06:00,12:00,1
+Route2,Sunday,Tambaram,Adyar,17:00,19:00,0
+Route1,Monday,Adyar,Mylapore,11:00,21:00,1
+Route2,Sunday,T. Nagar,T. Nagar,09:00,12:00,1
+Route1,Tuesday,Mylapore,Anna Nagar,13:00,21:00,0
+Route5,Friday,Anna Nagar,Tambaram,18:00,10:00,0
+Route5,Saturday,Anna Nagar,Velachery,16:00,09:00,0
+Route1,Tuesday,T. Nagar,Adyar,14:00,19:00,0
+Route5,Sunday,Mylapore,T. Nagar,09:00,15:00,0
+Route5,Saturday,T. Nagar,Tambaram,15:00,06:00,1
+Route5,Sunday,Adyar,Nungambakkam,17:00,15:00,0
+Route3,Friday,Tambaram,Adyar,15:00,15:00,0
+Route4,Sunday,Nungambakkam,Adyar,11:00,12:00,0
+Route2,Monday,Anna Nagar,Tambaram,06:00,21:00,1
+Route3,Wednesday,Adyar,T. Nagar,09:00,06:00,0
+Route5,Tuesday,Tambaram,Nungambakkam,12:00,06:00,1
+Route1,Wednesday,Adyar,Mylapore,17:00,10:00,0
+Route5,Sunday,Mylapore,T. Nagar,21:00,18:00,0
+Route4,Friday,Anna Nagar,Anna Nagar,20:00,14:00,1
+Route5,Tuesday,Nungambakkam,Velachery,06:00,11:00,0
+Route1,Sunday,T. Nagar,Tambaram,13:00,08:00,0
+Route4,Saturday,T. Nagar,Mylapore,17:00,18:00,1
+Route5,Thursday,Tambaram,Nungambakkam,15:00,08:00,0
+Route4,Sunday,Nungambakkam,Tambaram,17:00,12:00,1
+Route2,Wednesday,Velachery,Tambaram,16:00,11:00,1
+Route2,Tuesday,Mylapore,T. Nagar,11:00,14:00,1
+Route5,Wednesday,Tambaram,Velachery,10:00,11:00,1
+Route4,Tuesday,Velachery,Anna Nagar,15:00,10:00,1
+Route1,Sunday,Adyar,Adyar,16:00,15:00,0
+Route5,Monday,Mylapore,Adyar,20:00,12:00,0
+Route2,Saturday,Adyar,Tambaram,19:00,06:00,0
+Route2,Sunday,Nungambakkam,Velachery,14:00,17:00,1
+Route5,Wednesday,Anna Nagar,Nungambakkam,07:00,12:00,1
+Route4,Thursday,Mylapore,Nungambakkam,10:00,21:00,1
+Route2,Thursday,Velachery,Mylapore,11:00,08:00,1
+Route4,Friday,Anna Nagar,T. Nagar,12:00,19:00,0
+Route2,Tuesday,T. Nagar,Velachery,21:00,14:00,0
+Route2,Wednesday,Velachery,Velachery,21:00,20:00,1
+Route3,Friday,Tambaram,T. Nagar,10:00,11:00,1
+Route2,Wednesday,T. Nagar,Nungambakkam,14:00,14:00,0
+Route1,Tuesday,T. Nagar,Nungambakkam,06:00,18:00,1
+Route5,Sunday,Tambaram,Nungambakkam,12:00,20:00,1
+Route5,Sunday,Mylapore,Tambaram,15:00,10:00,1
+Route4,Thursday,T. Nagar,Velachery,12:00,12:00,0
+Route2,Sunday,Nungambakkam,Adyar,09:00,18:00,0
+Route1,Sunday,Velachery,T. Nagar,14:00,21:00,1
+Route4,Monday,Anna Nagar,Nungambakkam,19:00,19:00,0
+Route3,Thursday,T. Nagar,Mylapore,17:00,09:00,1
+Route4,Friday,Velachery,Nungambakkam,21:00,20:00,1
+Route4,Saturday,Adyar,Nungambakkam,21:00,21:00,0
+Route2,Monday,Velachery,Anna Nagar,16:00,12:00,1
+Route3,Friday,Anna Nagar,Tambaram,10:00,18:00,1
+Route4,Tuesday,Velachery,T. Nagar,09:00,06:00,0
+Route1,Monday,Tambaram,Anna Nagar,18:00,12:00,1
+Route1,Friday,Anna Nagar,Anna Nagar,12:00,13:00,1
+Route5,Tuesday,Mylapore,Mylapore,09:00,10:00,1
+Route3,Thursday,Adyar,Velachery,20:00,07:00,0
+Route3,Saturday,Tambaram,Mylapore,08:00,10:00,1
+Route5,Tuesday,Mylapore,Velachery,14:00,11:00,0
+Route4,Sunday,Velachery,Velachery,21:00,17:00,1
+Route3,Wednesday,Anna Nagar,T. Nagar,16:00,07:00,1
+Route1,Tuesday,Adyar,Nungambakkam,13:00,19:00,1
+Route1,Tuesday,Tambaram,T. Nagar,06:00,11:00,1
+Route2,Saturday,Mylapore,Tambaram,12:00,11:00,0
+Route3,Wednesday,Mylapore,Velachery,14:00,06:00,0
+Route4,Sunday,Adyar,Anna Nagar,13:00,19:00,1
+Route5,Friday,Nungambakkam,Nungambakkam,13:00,06:00,1
+Route5,Friday,Velachery,Adyar,18:00,19:00,1
+Route4,Tuesday,Adyar,Tambaram,11:00,16:00,1
+Route2,Wednesday,Mylapore,T. Nagar,16:00,21:00,1
+Route5,Wednesday,T. Nagar,Mylapore,09:00,15:00,1
+Route3,Sunday,Tambaram,Tambaram,13:00,08:00,1
+Route2,Saturday,Adyar,Tambaram,08:00,19:00,1
+Route3,Thursday,Nungambakkam,Nungambakkam,18:00,15:00,0
+Route1,Friday,Mylapore,Tambaram,14:00,15:00,0
+Route2,Saturday,Velachery,Tambaram,18:00,20:00,0
+Route5,Monday,Mylapore,Adyar,07:00,17:00,1
+Route2,Friday,Velachery,Mylapore,07:00,08:00,1
+Route2,Saturday,Adyar,Mylapore,17:00,09:00,1
+Route2,Friday,Velachery,Mylapore,18:00,07:00,0
+Route2,Thursday,Anna Nagar,Velachery,20:00,14:00,1
+Route3,Monday,Anna Nagar,Anna Nagar,17:00,15:00,0
+Route1,Thursday,Anna Nagar,Mylapore,12:00,17:00,1
+Route4,Sunday,Nungambakkam,Tambaram,17:00,16:00,0
+Route2,Monday,Nungambakkam,Tambaram,15:00,19:00,0
+Route5,Tuesday,T. Nagar,Mylapore,09:00,12:00,0
+Route2,Saturday,Nungambakkam,Nungambakkam,15:00,12:00,1
+Route5,Monday,Adyar,Mylapore,13:00,20:00,0
+Route3,Sunday,Mylapore,Tambaram,14:00,11:00,1
+Route5,Sunday,Mylapore,Velachery,12:00,20:00,1
+Route4,Thursday,T. Nagar,T. Nagar,10:00,08:00,1
+Route1,Friday,Nungambakkam,T. Nagar,13:00,11:00,1
+Route5,Monday,Velachery,Mylapore,21:00,20:00,1
+Route5,Saturday,T. Nagar,Adyar,09:00,19:00,0
+Route1,Monday,Velachery,Mylapore,07:00,17:00,1
+Route4,Wednesday,Velachery,Nungambakkam,16:00,13:00,1
+Route2,Friday,Tambaram,Mylapore,20:00,13:00,1
+Route5,Saturday,Mylapore,T. Nagar,21:00,16:00,1
+Route1,Saturday,Anna Nagar,Tambaram,17:00,18:00,1
+Route3,Tuesday,Nungambakkam,Mylapore,11:00,14:00,0
+Route1,Thursday,Velachery,Tambaram,14:00,20:00,0
+Route3,Tuesday,Tambaram,Tambaram,06:00,06:00,1
+Route4,Saturday,Mylapore,Adyar,16:00,19:00,0
+Route2,Friday,Anna Nagar,Tambaram,15:00,06:00,0
+Route1,Monday,Velachery,T. Nagar,17:00,08:00,1
+Route5,Monday,Velachery,Velachery,12:00,08:00,0
+Route4,Friday,T. Nagar,Velachery,15:00,15:00,1
+Route1,Saturday,T. Nagar,Anna Nagar,14:00,13:00,0
+Route5,Sunday,Mylapore,Nungambakkam,15:00,20:00,0
+Route1,Monday,Anna Nagar,Mylapore,14:00,15:00,0
+Route3,Sunday,Velachery,Nungambakkam,15:00,06:00,1
+Route1,Monday,Mylapore,T. Nagar,16:00,18:00,0
+Route1,Monday,Mylapore,Tambaram,18:00,07:00,0
+Route1,Thursday,Adyar,Velachery,08:00,07:00,1
+Route4,Thursday,Nungambakkam,Nungambakkam,16:00,08:00,1
+Route1,Wednesday,T. Nagar,T. Nagar,18:00,18:00,0
+Route5,Tuesday,Anna Nagar,Velachery,10:00,11:00,1
+Route3,Friday,Velachery,Tambaram,13:00,06:00,0
+Route3,Friday,Mylapore,Nungambakkam,13:00,07:00,0
+Route1,Friday,Velachery,Velachery,09:00,18:00,1
+Route4,Wednesday,Adyar,Mylapore,20:00,21:00,1
+Route4,Thursday,Anna Nagar,Mylapore,20:00,20:00,1
+Route5,Saturday,Mylapore,Anna Nagar,17:00,18:00,0
+Route1,Sunday,Velachery,Anna Nagar,16:00,21:00,1
+Route3,Sunday,T. Nagar,Velachery,16:00,06:00,0
+Route4,Saturday,Nungambakkam,T. Nagar,06:00,10:00,1
+Route1,Wednesday,Adyar,Mylapore,06:00,21:00,0
+Route4,Saturday,Anna Nagar,T. Nagar,20:00,18:00,1
+Route4,Friday,Adyar,T. Nagar,09:00,18:00,0
+Route3,Tuesday,T. Nagar,Velachery,11:00,12:00,1
+Route2,Monday,Anna Nagar,T. Nagar,13:00,21:00,0
+Route5,Sunday,Adyar,Mylapore,11:00,13:00,1
+Route5,Thursday,Tambaram,Tambaram,17:00,15:00,1
+Route3,Thursday,T. Nagar,Anna Nagar,14:00,06:00,0
+Route4,Wednesday,T. Nagar,Tambaram,20:00,12:00,1
+Route1,Thursday,T. Nagar,T. Nagar,20:00,18:00,0
+Route4,Friday,Tambaram,Tambaram,14:00,10:00,0
+Route3,Sunday,Tambaram,Mylapore,19:00,15:00,1
+Route5,Saturday,Velachery,Mylapore,07:00,06:00,0
+Route4,Friday,Mylapore,T. Nagar,15:00,08:00,1
+Route5,Wednesday,Nungambakkam,Velachery,06:00,12:00,1
+Route1,Friday,Adyar,Tambaram,07:00,15:00,0
+Route5,Saturday,Velachery,Velachery,10:00,06:00,1
+Route5,Tuesday,Adyar,Velachery,09:00,12:00,0
+Route2,Wednesday,Nungambakkam,Adyar,09:00,10:00,0
+Route2,Tuesday,Mylapore,T. Nagar,14:00,06:00,1
+Route2,Monday,Tambaram,Anna Nagar,16:00,06:00,1
+Route5,Tuesday,Mylapore,Mylapore,13:00,19:00,0
+Route3,Monday,Tambaram,Mylapore,11:00,06:00,0
+Route5,Monday,Nungambakkam,T. Nagar,06:00,16:00,1
+Route3,Tuesday,Mylapore,Nungambakkam,07:00,14:00,1
+Route3,Wednesday,Velachery,Nungambakkam,11:00,16:00,1
+Route2,Saturday,Anna Nagar,Nungambakkam,16:00,18:00,1
+Route4,Friday,Velachery,Anna Nagar,07:00,08:00,0
+Route1,Friday,Adyar,Mylapore,20:00,20:00,1
+Route2,Saturday,Velachery,T. Nagar,21:00,18:00,0
+Route2,Sunday,Nungambakkam,Mylapore,18:00,10:00,0
+Route4,Sunday,T. Nagar,Velachery,15:00,16:00,1
+Route1,Monday,Adyar,Tambaram,10:00,21:00,0
+Route5,Monday,Mylapore,Tambaram,19:00,15:00,1
+Route5,Wednesday,Adyar,Mylapore,10:00,17:00,0
+Route2,Thursday,Anna Nagar,Adyar,11:00,21:00,1
+Route1,Tuesday,Tambaram,Anna Nagar,11:00,14:00,0
+Route2,Monday,Mylapore,Nungambakkam,19:00,11:00,0
+Route3,Friday,Adyar,Anna Nagar,11:00,17:00,1
+Route2,Wednesday,Mylapore,Anna Nagar,19:00,14:00,1
+Route2,Tuesday,Mylapore,Velachery,07:00,13:00,0
+Route5,Wednesday,Mylapore,Anna Nagar,19:00,13:00,0
+Route5,Tuesday,Tambaram,Tambaram,15:00,06:00,1
+Route5,Tuesday,Nungambakkam,Velachery,19:00,18:00,0
+Route3,Saturday,Velachery,T. Nagar,18:00,14:00,1
+Route5,Monday,Mylapore,Anna Nagar,20:00,11:00,0
+Route1,Wednesday,T. Nagar,Anna Nagar,19:00,21:00,1
+Route4,Wednesday,Nungambakkam,T. Nagar,08:00,14:00,0
+Route1,Saturday,Anna Nagar,Anna Nagar,19:00,08:00,1
+Route1,Friday,Tambaram,T. Nagar,11:00,17:00,1
+Route5,Friday,Adyar,Velachery,18:00,08:00,0
+Route4,Sunday,Tambaram,Tambaram,13:00,11:00,1
+Route4,Monday,Adyar,T. Nagar,17:00,14:00,0
+Route4,Monday,Tambaram,Adyar,18:00,12:00,1
+Route3,Thursday,Adyar,T. Nagar,16:00,19:00,1
+Route5,Saturday,Mylapore,Anna Nagar,17:00,18:00,1
+Route4,Friday,Velachery,Nungambakkam,06:00,08:00,0
+Route3,Tuesday,Adyar,Nungambakkam,06:00,08:00,1
+Route2,Wednesday,Adyar,Velachery,21:00,07:00,0
+Route2,Monday,T. Nagar,Mylapore,16:00,14:00,1
+Route3,Wednesday,Adyar,Velachery,18:00,18:00,0
+Route3,Wednesday,T. Nagar,Mylapore,07:00,20:00,0
+Route5,Thursday,Anna Nagar,Nungambakkam,16:00,08:00,0
+Route5,Friday,Mylapore,Nungambakkam,20:00,16:00,1
+Route2,Monday,T. Nagar,T. Nagar,17:00,10:00,0
+Route4,Wednesday,Velachery,Tambaram,17:00,19:00,1
+Route2,Monday,Nungambakkam,Adyar,11:00,19:00,0
+Route4,Tuesday,Mylapore,Velachery,14:00,14:00,0
+Route4,Thursday,T. Nagar,Anna Nagar,21:00,13:00,0
+Route5,Tuesday,Mylapore,Mylapore,09:00,07:00,0
+Route1,Monday,Mylapore,Anna Nagar,08:00,08:00,1
+Route1,Sunday,Mylapore,Tambaram,17:00,21:00,0
+Route3,Monday,Anna Nagar,Mylapore,21:00,21:00,0
+Route5,Friday,Velachery,Velachery,13:00,07:00,1
+Route4,Wednesday,Tambaram,T. Nagar,21:00,21:00,0
+Route1,Wednesday,Tambaram,Anna Nagar,16:00,13:00,0
+Route4,Tuesday,T. Nagar,Tambaram,15:00,11:00,0
+Route1,Thursday,Mylapore,Velachery,19:00,11:00,0
+Route1,Sunday,T. Nagar,Nungambakkam,14:00,17:00,1
+Route1,Saturday,Anna Nagar,Nungambakkam,17:00,20:00,1
+Route5,Wednesday,Anna Nagar,Velachery,16:00,14:00,0
+Route2,Friday,Adyar,Velachery,10:00,13:00,1
+Route4,Tuesday,Anna Nagar,Velachery,14:00,09:00,1
+Route5,Tuesday,Adyar,Mylapore,07:00,20:00,0
+Route5,Saturday,Velachery,Velachery,08:00,17:00,1
+Route5,Friday,T. Nagar,Anna Nagar,12:00,09:00,0
+Route5,Thursday,Nungambakkam,Tambaram,12:00,14:00,1
+Route5,Friday,Velachery,Mylapore,11:00,06:00,1
+Route3,Thursday,Anna Nagar,Velachery,11:00,18:00,1
+Route4,Friday,Velachery,Adyar,07:00,07:00,0
+Route5,Friday,Velachery,Adyar,15:00,07:00,1
+Route4,Monday,Velachery,Tambaram,11:00,18:00,0
+Route3,Tuesday,Anna Nagar,Nungambakkam,09:00,18:00,0
+Route3,Friday,Nungambakkam,T. Nagar,17:00,11:00,1
+Route4,Saturday,Mylapore,T. Nagar,08:00,20:00,0
+Route1,Friday,Velachery,Nungambakkam,18:00,09:00,1
+Route2,Wednesday,Adyar,Mylapore,16:00,21:00,0
+Route1,Tuesday,Anna Nagar,Mylapore,18:00,18:00,0
+Route1,Wednesday,Velachery,Mylapore,07:00,16:00,1
+Route1,Tuesday,Nungambakkam,T. Nagar,06:00,15:00,1
+Route5,Wednesday,Mylapore,Adyar,16:00,18:00,1
+Route3,Friday,Anna Nagar,T. Nagar,16:00,08:00,1
+Route1,Friday,Tambaram,Anna Nagar,10:00,08:00,0
+Route3,Monday,Mylapore,Velachery,21:00,08:00,0
+Route4,Saturday,Adyar,Mylapore,07:00,11:00,0
+Route2,Wednesday,Velachery,Adyar,07:00,19:00,1
+Route4,Thursday,Nungambakkam,Tambaram,12:00,21:00,0
+Route4,Monday,Tambaram,Tambaram,13:00,13:00,1
+Route5,Wednesday,Nungambakkam,Velachery,18:00,16:00,0
+Route2,Wednesday,Tambaram,Adyar,15:00,12:00,1
+Route4,Monday,Anna Nagar,T. Nagar,13:00,19:00,0
+Route4,Friday,Tambaram,T. Nagar,19:00,09:00,0
+Route2,Wednesday,Adyar,Anna Nagar,21:00,16:00,1
+Route2,Friday,Adyar,Anna Nagar,09:00,17:00,0
+Route4,Monday,T. Nagar,T. Nagar,20:00,09:00,1
+Route2,Friday,Adyar,Tambaram,19:00,16:00,0
+Route4,Tuesday,Mylapore,Mylapore,06:00,15:00,0
+Route4,Thursday,Tambaram,Tambaram,16:00,20:00,1
+Route5,Sunday,Adyar,Anna Nagar,12:00,16:00,1
+Route1,Wednesday,Anna Nagar,Velachery,06:00,21:00,0
+Route4,Saturday,Nungambakkam,T. Nagar,16:00,16:00,0
+Route3,Thursday,Nungambakkam,Anna Nagar,09:00,19:00,0
+Route1,Sunday,T. Nagar,Anna Nagar,13:00,16:00,0
+Route1,Friday,Nungambakkam,Mylapore,07:00,07:00,0
+Route1,Wednesday,Tambaram,T. Nagar,11:00,19:00,0
+Route5,Friday,T. Nagar,Mylapore,18:00,21:00,1
+Route4,Tuesday,Tambaram,T. Nagar,11:00,06:00,1
+Route5,Monday,Anna Nagar,Mylapore,17:00,14:00,1
+Route4,Wednesday,T. Nagar,Tambaram,14:00,17:00,0
+Route5,Sunday,Velachery,Velachery,10:00,20:00,0
+Route5,Sunday,Mylapore,Velachery,15:00,17:00,0
+Route3,Tuesday,Mylapore,T. Nagar,09:00,07:00,1
+Route5,Tuesday,Tambaram,Adyar,10:00,18:00,1
+Route2,Wednesday,Nungambakkam,Nungambakkam,17:00,13:00,0
+Route3,Friday,Velachery,Anna Nagar,21:00,20:00,0
+Route5,Saturday,T. Nagar,Anna Nagar,17:00,21:00,1
+Route1,Sunday,Velachery,T. Nagar,15:00,14:00,1
+Route2,Sunday,Velachery,Mylapore,20:00,09:00,1
+Route2,Tuesday,Nungambakkam,Adyar,16:00,13:00,0
+Route2,Thursday,T. Nagar,Tambaram,10:00,14:00,0
+Route3,Tuesday,Anna Nagar,Mylapore,13:00,15:00,0
+Route5,Saturday,Nungambakkam,Mylapore,15:00,15:00,1
+Route5,Friday,Velachery,T. Nagar,17:00,10:00,1
+Route1,Friday,Velachery,T. Nagar,13:00,21:00,0
+Route1,Thursday,Anna Nagar,Anna Nagar,07:00,18:00,0
+Route2,Sunday,Velachery,T. Nagar,12:00,19:00,1
+Route1,Tuesday,Velachery,T. Nagar,13:00,12:00,0
+Route3,Friday,Velachery,T. Nagar,21:00,21:00,1
+Route5,Saturday,Mylapore,Anna Nagar,16:00,15:00,1
+Route2,Wednesday,Nungambakkam,Tambaram,11:00,09:00,0
+Route1,Monday,Adyar,Tambaram,10:00,06:00,1
+Route3,Monday,Nungambakkam,Nungambakkam,16:00,08:00,0
+Route3,Monday,Anna Nagar,Nungambakkam,14:00,10:00,1
+Route1,Sunday,Velachery,T. Nagar,18:00,08:00,1
+Route5,Tuesday,Nungambakkam,Nungambakkam,08:00,21:00,0
+Route1,Thursday,Mylapore,Anna Nagar,17:00,17:00,1
+Route2,Friday,Anna Nagar,Tambaram,18:00,18:00,0
+Route1,Wednesday,Tambaram,Mylapore,18:00,16:00,0
+Route3,Saturday,Nungambakkam,Tambaram,15:00,12:00,1
+Route1,Wednesday,Tambaram,Tambaram,09:00,17:00,0
+Route5,Saturday,Velachery,Anna Nagar,14:00,14:00,0
+Route4,Sunday,Mylapore,Nungambakkam,11:00,20:00,0
+Route1,Tuesday,Mylapore,Mylapore,13:00,17:00,0
+Route5,Monday,Nungambakkam,Anna Nagar,12:00,11:00,0
+Route5,Tuesday,Anna Nagar,T. Nagar,16:00,18:00,0
+Route3,Sunday,Anna Nagar,Velachery,07:00,15:00,1
+Route5,Thursday,Mylapore,Tambaram,08:00,06:00,0
+Route5,Thursday,Anna Nagar,Velachery,06:00,21:00,1
+Route5,Sunday,Mylapore,Anna Nagar,21:00,12:00,1
+Route5,Saturday,Nungambakkam,Anna Nagar,14:00,20:00,0
+Route2,Friday,Adyar,Anna Nagar,18:00,08:00,1
+Route2,Friday,Mylapore,Velachery,12:00,10:00,1
+Route3,Saturday,Tambaram,Anna Nagar,06:00,21:00,0
+Route1,Thursday,Anna Nagar,T. Nagar,08:00,15:00,0
+Route5,Thursday,Mylapore,Anna Nagar,09:00,09:00,0
+Route1,Thursday,Mylapore,Adyar,09:00,15:00,1
+Route1,Tuesday,Nungambakkam,Nungambakkam,10:00,10:00,1
+Route3,Thursday,Anna Nagar,Velachery,19:00,10:00,0
+Route5,Wednesday,Adyar,Adyar,08:00,11:00,0
+Route5,Monday,Nungambakkam,Anna Nagar,08:00,19:00,1
+Route4,Thursday,Adyar,T. Nagar,06:00,15:00,1
+Route1,Saturday,Nungambakkam,Tambaram,12:00,17:00,1
+Route1,Monday,Anna Nagar,Mylapore,16:00,15:00,1
+Route2,Tuesday,T. Nagar,Nungambakkam,15:00,18:00,0
+Route4,Saturday,Anna Nagar,Mylapore,19:00,18:00,1
+Route2,Monday,Anna Nagar,Anna Nagar,06:00,16:00,1
+Route2,Saturday,Adyar,Nungambakkam,07:00,11:00,1
+Route2,Tuesday,Adyar,Nungambakkam,18:00,21:00,1
+Route3,Wednesday,Anna Nagar,T. Nagar,09:00,13:00,0
+Route3,Tuesday,Anna Nagar,Nungambakkam,18:00,13:00,0
+Route2,Tuesday,Anna Nagar,Velachery,09:00,16:00,1
+Route4,Saturday,Adyar,Adyar,10:00,14:00,1
+Route1,Sunday,Anna Nagar,Adyar,16:00,13:00,0
+Route4,Friday,Anna Nagar,Adyar,07:00,18:00,0
+Route5,Thursday,Velachery,Velachery,09:00,16:00,1
+Route3,Thursday,T. Nagar,Mylapore,06:00,07:00,1
+Route1,Wednesday,Tambaram,T. Nagar,07:00,19:00,0
+Route1,Wednesday,T. Nagar,Nungambakkam,06:00,19:00,0
+Route5,Thursday,Velachery,Velachery,15:00,17:00,0
+Route5,Friday,Tambaram,Adyar,15:00,15:00,0
+Route2,Thursday,Nungambakkam,Anna Nagar,18:00,17:00,0
+Route3,Sunday,Anna Nagar,Tambaram,09:00,16:00,0
+Route3,Friday,Velachery,Nungambakkam,09:00,20:00,1
+Route4,Wednesday,Nungambakkam,Velachery,12:00,21:00,0
+Route2,Monday,Anna Nagar,Velachery,15:00,06:00,0
+Route2,Saturday,Adyar,T. Nagar,16:00,15:00,0
+Route2,Sunday,Mylapore,T. Nagar,16:00,07:00,0
+Route2,Sunday,Velachery,Velachery,14:00,07:00,1
+Route3,Wednesday,Adyar,Adyar,14:00,17:00,1
+Route3,Wednesday,Velachery,Tambaram,10:00,08:00,0
+Route2,Tuesday,Velachery,Nungambakkam,15:00,15:00,1
+Route4,Sunday,Adyar,T. Nagar,06:00,12:00,1
+Route1,Tuesday,Tambaram,Nungambakkam,06:00,07:00,1
+Route1,Tuesday,T. Nagar,Adyar,11:00,19:00,1
+Route4,Saturday,Anna Nagar,Nungambakkam,07:00,21:00,1
+Route2,Tuesday,Velachery,Anna Nagar,13:00,06:00,1
+Route3,Friday,Anna Nagar,T. Nagar,18:00,21:00,0
+Route1,Thursday,Mylapore,Adyar,14:00,19:00,0
+Route5,Monday,Adyar,Adyar,18:00,11:00,0
+Route5,Wednesday,Anna Nagar,Tambaram,09:00,14:00,0
+Route4,Friday,Adyar,Tambaram,10:00,20:00,0
+Route2,Monday,Anna Nagar,Anna Nagar,21:00,08:00,1
+Route1,Sunday,T. Nagar,Adyar,16:00,11:00,0
+Route2,Sunday,T. Nagar,Mylapore,13:00,08:00,0
+Route1,Sunday,T. Nagar,Adyar,08:00,19:00,1
+Route4,Friday,T. Nagar,Tambaram,10:00,18:00,1
+Route4,Friday,T. Nagar,Mylapore,08:00,06:00,0
+Route5,Wednesday,T. Nagar,T. Nagar,17:00,19:00,1
+Route2,Thursday,Adyar,T. Nagar,15:00,18:00,1
+Route5,Tuesday,Velachery,Nungambakkam,08:00,21:00,1
+Route2,Sunday,Anna Nagar,Velachery,08:00,17:00,1
+Route5,Saturday,T. Nagar,Tambaram,18:00,10:00,0
+Route3,Thursday,Adyar,Velachery,17:00,15:00,1
+Route3,Saturday,Adyar,Mylapore,12:00,19:00,0
+Route3,Wednesday,Adyar,Tambaram,20:00,18:00,0
+Route3,Wednesday,Velachery,Anna Nagar,12:00,16:00,1
+Route1,Wednesday,Anna Nagar,Adyar,12:00,09:00,1
+Route3,Monday,Velachery,Anna Nagar,15:00,12:00,1
+Route4,Saturday,Tambaram,Mylapore,13:00,11:00,0
+Route4,Thursday,Nungambakkam,Tambaram,10:00,15:00,1
+Route1,Thursday,Adyar,Mylapore,10:00,12:00,1
+Route3,Friday,Tambaram,Adyar,19:00,10:00,1
+Route3,Friday,Mylapore,T. Nagar,09:00,20:00,1
+Route3,Sunday,T. Nagar,T. Nagar,12:00,20:00,1
+Route5,Friday,Nungambakkam,Mylapore,15:00,09:00,0
+Route2,Wednesday,T. Nagar,Velachery,09:00,21:00,1
+Route5,Thursday,Velachery,Tambaram,20:00,12:00,1
+Route2,Saturday,Nungambakkam,Tambaram,07:00,12:00,1
+Route3,Wednesday,Anna Nagar,T. Nagar,09:00,11:00,0
+Route3,Monday,Tambaram,Nungambakkam,18:00,13:00,1
+Route5,Friday,Anna Nagar,Anna Nagar,18:00,09:00,0
+Route5,Wednesday,Velachery,Nungambakkam,13:00,15:00,0
+Route2,Wednesday,T. Nagar,Adyar,14:00,10:00,1
+Route4,Monday,Nungambakkam,Anna Nagar,21:00,09:00,1
+Route2,Tuesday,Anna Nagar,Anna Nagar,08:00,17:00,1
+Route5,Thursday,Anna Nagar,Mylapore,21:00,06:00,0
+Route5,Saturday,T. Nagar,T. Nagar,12:00,17:00,0
+Route1,Sunday,Nungambakkam,Nungambakkam,19:00,13:00,0
+Route5,Tuesday,Tambaram,Nungambakkam,17:00,06:00,0
+Route1,Friday,T. Nagar,T. Nagar,19:00,10:00,0
+Route4,Wednesday,Anna Nagar,Nungambakkam,14:00,20:00,0
+Route2,Monday,Tambaram,T. Nagar,16:00,11:00,1
+Route2,Monday,Tambaram,Mylapore,09:00,11:00,1
+Route1,Thursday,T. Nagar,Velachery,15:00,18:00,0
+Route2,Tuesday,Anna Nagar,Anna Nagar,20:00,10:00,1
+Route5,Sunday,Velachery,Mylapore,08:00,21:00,1
+Route3,Thursday,Anna Nagar,Tambaram,10:00,08:00,0
+Route1,Wednesday,Adyar,Adyar,06:00,20:00,0
+Route2,Thursday,Nungambakkam,Velachery,08:00,10:00,1
+Route1,Saturday,Mylapore,Tambaram,20:00,17:00,0
+Route1,Monday,Velachery,Anna Nagar,13:00,13:00,0
+Route3,Monday,Tambaram,Nungambakkam,16:00,19:00,1
+Route5,Friday,Velachery,T. Nagar,13:00,07:00,0
+Route1,Friday,Nungambakkam,Anna Nagar,20:00,21:00,1
+Route2,Sunday,Tambaram,Mylapore,18:00,11:00,1
+Route4,Wednesday,Nungambakkam,Adyar,09:00,14:00,1
+Route1,Saturday,Tambaram,Mylapore,07:00,13:00,1
+Route1,Tuesday,Velachery,Velachery,18:00,19:00,1
+Route3,Thursday,Tambaram,Velachery,13:00,16:00,0
+Route5,Sunday,Tambaram,Adyar,13:00,13:00,0
+Route4,Wednesday,Adyar,Tambaram,15:00,13:00,0
+Route2,Friday,Anna Nagar,Tambaram,09:00,20:00,0
+Route4,Thursday,Anna Nagar,Velachery,08:00,18:00,1
+Route2,Friday,Mylapore,Velachery,07:00,12:00,1
+Route5,Thursday,Mylapore,Nungambakkam,14:00,13:00,0
+Route2,Tuesday,Adyar,T. Nagar,06:00,18:00,1
+Route3,Wednesday,Mylapore,Nungambakkam,12:00,11:00,0
+Route3,Thursday,Nungambakkam,Nungambakkam,10:00,07:00,0
+Route3,Saturday,Velachery,Tambaram,13:00,07:00,0
+Route3,Sunday,T. Nagar,Adyar,09:00,13:00,1
+Route4,Monday,Nungambakkam,Tambaram,12:00,16:00,1
+Route5,Saturday,T. Nagar,T. Nagar,18:00,06:00,1
+Route2,Saturday,T. Nagar,Mylapore,10:00,11:00,1
+Route2,Sunday,Adyar,Velachery,20:00,18:00,0
+Route3,Monday,Nungambakkam,Velachery,19:00,21:00,1
+Route3,Saturday,Adyar,T. Nagar,10:00,11:00,1
+Route1,Thursday,Tambaram,Nungambakkam,19:00,21:00,1
+Route5,Thursday,T. Nagar,Adyar,14:00,16:00,0
+Route4,Thursday,Velachery,Velachery,14:00,09:00,0
+Route2,Monday,Mylapore,Anna Nagar,18:00,17:00,1
+Route1,Saturday,Velachery,Nungambakkam,14:00,16:00,1
+Route1,Monday,Mylapore,Velachery,17:00,18:00,1
+Route2,Thursday,T. Nagar,Anna Nagar,11:00,20:00,1
+Route4,Sunday,T. Nagar,T. Nagar,11:00,16:00,0
+Route1,Saturday,T. Nagar,T. Nagar,10:00,21:00,1
+Route1,Saturday,Adyar,Nungambakkam,14:00,18:00,1
+Route5,Friday,Nungambakkam,Velachery,15:00,15:00,1
+Route4,Friday,Mylapore,Tambaram,13:00,08:00,0
+Route1,Tuesday,Nungambakkam,Anna Nagar,12:00,18:00,0
+Route4,Wednesday,Adyar,Adyar,12:00,16:00,1
+Route2,Friday,Adyar,Velachery,11:00,08:00,1
+Route3,Monday,Anna Nagar,Adyar,10:00,20:00,1
+Route1,Friday,Velachery,Velachery,18:00,20:00,1
+Route5,Tuesday,Velachery,Tambaram,09:00,21:00,1
+Route2,Saturday,Tambaram,Tambaram,08:00,18:00,0
+Route4,Tuesday,Adyar,Nungambakkam,21:00,18:00,0
+Route2,Saturday,Mylapore,Nungambakkam,08:00,06:00,0
+Route1,Sunday,Anna Nagar,Tambaram,11:00,08:00,1
+Route4,Sunday,Anna Nagar,Mylapore,20:00,09:00,0
+Route3,Saturday,Nungambakkam,Tambaram,09:00,16:00,0
+Route2,Wednesday,Velachery,T. Nagar,17:00,16:00,0
+Route1,Friday,Adyar,T. Nagar,17:00,10:00,1
+Route5,Monday,Tambaram,Mylapore,11:00,08:00,1
+Route4,Monday,Adyar,Anna Nagar,08:00,11:00,0
+Route2,Thursday,Nungambakkam,Adyar,20:00,16:00,1
+Route2,Saturday,T. Nagar,Velachery,09:00,19:00,0
+Route3,Monday,Adyar,Velachery,20:00,20:00,0
+Route3,Wednesday,Nungambakkam,Mylapore,14:00,17:00,0
+Route5,Saturday,T. Nagar,T. Nagar,10:00,21:00,0
+Route5,Wednesday,T. Nagar,Nungambakkam,18:00,10:00,1
+Route1,Monday,Tambaram,Velachery,12:00,08:00,1
+Route1,Monday,Mylapore,T. Nagar,15:00,11:00,1
+Route5,Thursday,Velachery,Anna Nagar,07:00,11:00,1
+Route5,Monday,Adyar,Adyar,19:00,20:00,0
+Route4,Saturday,T. Nagar,Anna Nagar,19:00,19:00,1
+Route3,Sunday,Adyar,Mylapore,10:00,13:00,0
+Route1,Saturday,Mylapore,Tambaram,14:00,07:00,1
+Route3,Saturday,Velachery,Tambaram,21:00,06:00,1
+Route3,Thursday,Mylapore,Tambaram,16:00,21:00,1
+Route5,Thursday,Velachery,Anna Nagar,08:00,09:00,0
+Route4,Monday,Anna Nagar,Velachery,19:00,21:00,0
+Route2,Tuesday,Velachery,Adyar,14:00,12:00,0
+Route4,Tuesday,Tambaram,Tambaram,19:00,20:00,0
+Route4,Thursday,Mylapore,Mylapore,21:00,21:00,1
+Route3,Monday,T. Nagar,Mylapore,16:00,16:00,0
+Route4,Tuesday,Anna Nagar,Tambaram,20:00,15:00,0
+Route1,Monday,Tambaram,Tambaram,11:00,08:00,1
+Route3,Monday,Adyar,Adyar,09:00,08:00,1
+Route1,Monday,Mylapore,Tambaram,12:00,21:00,0
+Route2,Friday,Nungambakkam,Adyar,21:00,10:00,1
+Route3,Saturday,Nungambakkam,Mylapore,13:00,10:00,0
+Route2,Monday,T. Nagar,Tambaram,11:00,18:00,1
+Route3,Friday,Velachery,Anna Nagar,10:00,15:00,0
+Route5,Thursday,T. Nagar,Nungambakkam,11:00,08:00,0
+Route4,Tuesday,Nungambakkam,Anna Nagar,10:00,14:00,0
+Route5,Saturday,Adyar,Mylapore,13:00,09:00,0
+Route2,Sunday,Anna Nagar,Adyar,06:00,18:00,0
+Route4,Tuesday,Anna Nagar,Anna Nagar,21:00,18:00,1
+Route3,Saturday,Mylapore,Adyar,16:00,20:00,0
+Route4,Sunday,Anna Nagar,Anna Nagar,12:00,08:00,0
+Route1,Tuesday,Mylapore,Anna Nagar,20:00,16:00,0
+Route4,Saturday,Mylapore,Adyar,15:00,07:00,0
+Route1,Tuesday,Mylapore,Velachery,15:00,15:00,0
+Route4,Tuesday,Nungambakkam,Anna Nagar,21:00,18:00,1
+Route1,Sunday,Nungambakkam,Tambaram,16:00,16:00,1
+Route2,Tuesday,Velachery,Nungambakkam,07:00,14:00,0
+Route5,Tuesday,Tambaram,Mylapore,20:00,09:00,1
+Route3,Sunday,Mylapore,Velachery,19:00,21:00,0
+Route4,Thursday,Mylapore,Adyar,14:00,08:00,1
+Route5,Monday,Tambaram,Velachery,06:00,12:00,1
+Route3,Wednesday,T. Nagar,T. Nagar,16:00,13:00,0
+Route3,Friday,Mylapore,T. Nagar,21:00,16:00,1
+Route1,Wednesday,Velachery,Anna Nagar,15:00,19:00,1
+Route2,Wednesday,Anna Nagar,Anna Nagar,11:00,07:00,0
+Route2,Saturday,Anna Nagar,Tambaram,14:00,12:00,0
+Route5,Monday,Adyar,Nungambakkam,06:00,17:00,1
+Route2,Saturday,Adyar,Mylapore,09:00,10:00,1
+Route4,Monday,Anna Nagar,Velachery,21:00,20:00,1
+Route2,Sunday,Anna Nagar,T. Nagar,09:00,16:00,0
+Route5,Sunday,Nungambakkam,Anna Nagar,20:00,10:00,1
+Route2,Monday,Velachery,Mylapore,14:00,08:00,1
+Route4,Tuesday,Tambaram,Velachery,16:00,10:00,1
+Route1,Thursday,Adyar,Anna Nagar,10:00,17:00,0
+Route5,Tuesday,Nungambakkam,Anna Nagar,10:00,07:00,0
+Route1,Thursday,Nungambakkam,T. Nagar,11:00,09:00,0
+Route1,Saturday,Tambaram,T. Nagar,06:00,11:00,0
+Route1,Thursday,Nungambakkam,Anna Nagar,06:00,06:00,1
+Route3,Saturday,Velachery,Adyar,20:00,15:00,0
+Route3,Sunday,Anna Nagar,Anna Nagar,14:00,09:00,1
+Route1,Wednesday,Mylapore,Mylapore,08:00,11:00,1
+Route5,Sunday,Tambaram,Anna Nagar,09:00,14:00,1
+Route4,Sunday,Anna Nagar,Tambaram,06:00,19:00,1
+Route4,Wednesday,Anna Nagar,Nungambakkam,14:00,16:00,0
+Route2,Thursday,T. Nagar,Tambaram,20:00,21:00,0
+Route5,Thursday,Tambaram,Tambaram,13:00,16:00,0
+Route3,Saturday,Nungambakkam,Adyar,07:00,18:00,0
+Route1,Tuesday,Mylapore,Adyar,13:00,07:00,0
+Route2,Saturday,Tambaram,Anna Nagar,20:00,16:00,1
+Route4,Tuesday,Nungambakkam,Tambaram,21:00,12:00,0
+Route3,Sunday,Anna Nagar,Adyar,12:00,11:00,0
+Route3,Wednesday,Mylapore,T. Nagar,16:00,07:00,0
+Route1,Sunday,Nungambakkam,Anna Nagar,11:00,13:00,0
+Route4,Monday,Velachery,Mylapore,06:00,12:00,1
+Route5,Thursday,Nungambakkam,Nungambakkam,20:00,16:00,1
+Route3,Tuesday,T. Nagar,Velachery,12:00,10:00,1
+Route1,Saturday,Anna Nagar,Anna Nagar,15:00,17:00,1
+Route5,Wednesday,Nungambakkam,Velachery,12:00,10:00,1
+Route4,Tuesday,Adyar,Tambaram,18:00,12:00,0
+Route3,Saturday,Adyar,Nungambakkam,19:00,14:00,1
+Route5,Thursday,T. Nagar,Velachery,14:00,16:00,1
+Route5,Sunday,Velachery,Tambaram,06:00,20:00,1
+Route5,Thursday,Anna Nagar,T. Nagar,07:00,14:00,0
+Route3,Friday,Tambaram,Velachery,16:00,14:00,0
+Route3,Monday,T. Nagar,Nungambakkam,14:00,11:00,1
+Route2,Friday,Velachery,Anna Nagar,18:00,15:00,0
+Route4,Wednesday,Tambaram,Tambaram,14:00,11:00,0
+Route1,Tuesday,Adyar,Anna Nagar,18:00,08:00,1
+Route5,Wednesday,Adyar,Nungambakkam,11:00,06:00,0
+Route2,Sunday,Tambaram,Adyar,11:00,21:00,0
+Route1,Saturday,T. Nagar,Tambaram,09:00,12:00,0
+Route2,Thursday,Adyar,Velachery,09:00,09:00,1
+Route3,Friday,Anna Nagar,Tambaram,10:00,06:00,1
+Route5,Friday,Mylapore,Anna Nagar,08:00,20:00,1
+Route1,Sunday,Nungambakkam,T. Nagar,06:00,13:00,0
+Route1,Friday,Tambaram,Tambaram,20:00,17:00,1
+Route1,Sunday,Tambaram,Velachery,06:00,11:00,0
+Route1,Wednesday,Adyar,Adyar,17:00,11:00,0
+Route1,Thursday,T. Nagar,Mylapore,21:00,07:00,0
+Route2,Tuesday,Anna Nagar,T. Nagar,20:00,20:00,1
+Route5,Saturday,T. Nagar,Adyar,18:00,06:00,1
+Route3,Tuesday,Velachery,Tambaram,12:00,18:00,1
+Route3,Wednesday,Velachery,Anna Nagar,21:00,19:00,1
+Route3,Saturday,Mylapore,Nungambakkam,06:00,19:00,0
+Route3,Friday,Adyar,Anna Nagar,06:00,07:00,1
+Route2,Monday,Adyar,Velachery,08:00,09:00,0
+Route4,Wednesday,Adyar,Anna Nagar,15:00,07:00,1
+Route5,Wednesday,Mylapore,T. Nagar,20:00,21:00,1
+Route1,Thursday,Velachery,Anna Nagar,09:00,06:00,1
+Route4,Tuesday,T. Nagar,Velachery,21:00,12:00,0
+Route3,Wednesday,Mylapore,Mylapore,21:00,16:00,0
+Route4,Wednesday,Mylapore,Tambaram,21:00,16:00,0
+Route5,Friday,T. Nagar,Nungambakkam,09:00,20:00,0
+Route1,Friday,Adyar,Tambaram,07:00,17:00,0
+Route1,Saturday,Anna Nagar,Anna Nagar,06:00,13:00,1
+Route5,Sunday,T. Nagar,Adyar,08:00,11:00,0
+Route5,Sunday,Velachery,Tambaram,16:00,09:00,0
+Route3,Monday,Tambaram,Mylapore,09:00,19:00,0
+Route1,Sunday,Tambaram,Anna Nagar,08:00,11:00,0
+Route4,Thursday,Nungambakkam,Nungambakkam,13:00,08:00,1
+Route2,Monday,Nungambakkam,Velachery,19:00,17:00,0
+Route2,Saturday,Mylapore,Mylapore,15:00,13:00,1
+Route5,Friday,Tambaram,Anna Nagar,06:00,15:00,1
+Route3,Sunday,Anna Nagar,Mylapore,19:00,19:00,1
+Route2,Tuesday,Adyar,Tambaram,07:00,18:00,0
+Route1,Friday,Velachery,Nungambakkam,18:00,18:00,1
+Route5,Thursday,Nungambakkam,Velachery,12:00,07:00,0
+Route4,Friday,Anna Nagar,Anna Nagar,09:00,10:00,0
+Route5,Thursday,Velachery,T. Nagar,13:00,06:00,0
+Route4,Thursday,Velachery,Velachery,16:00,11:00,0
+Route5,Thursday,Adyar,T. Nagar,18:00,07:00,0
+Route5,Saturday,Mylapore,Mylapore,08:00,09:00,1
+Route5,Thursday,Tambaram,Adyar,11:00,11:00,1
+Route4,Thursday,Adyar,Velachery,14:00,15:00,0
+Route4,Tuesday,Anna Nagar,Mylapore,06:00,16:00,1
+Route5,Monday,Mylapore,T. Nagar,06:00,13:00,0
+Route2,Wednesday,Anna Nagar,Tambaram,13:00,17:00,1
+Route3,Monday,Mylapore,Tambaram,08:00,13:00,1
+Route3,Thursday,Nungambakkam,Adyar,10:00,16:00,1
+Route3,Tuesday,Anna Nagar,Velachery,06:00,11:00,1
+Route4,Friday,Adyar,Velachery,10:00,09:00,1
+Route4,Tuesday,Mylapore,Velachery,16:00,13:00,0
+Route2,Thursday,Mylapore,Mylapore,21:00,18:00,0
+Route3,Tuesday,Velachery,Nungambakkam,11:00,13:00,1
+Route3,Sunday,Velachery,Nungambakkam,13:00,15:00,0
+Route5,Tuesday,T. Nagar,Adyar,18:00,19:00,1
+Route4,Thursday,Anna Nagar,Velachery,21:00,06:00,0
+Route3,Saturday,Velachery,Mylapore,21:00,21:00,1
+Route2,Sunday,T. Nagar,Tambaram,19:00,09:00,1
+Route2,Tuesday,Nungambakkam,T. Nagar,08:00,09:00,1
+Route3,Wednesday,Nungambakkam,Mylapore,08:00,12:00,0
+Route4,Wednesday,Velachery,Nungambakkam,17:00,21:00,0
+Route2,Tuesday,Anna Nagar,Nungambakkam,21:00,19:00,1
+Route5,Saturday,Mylapore,Tambaram,16:00,19:00,1
+Route2,Friday,Tambaram,Tambaram,16:00,16:00,0
+Route1,Thursday,Anna Nagar,T. Nagar,15:00,12:00,0
+Route1,Wednesday,Adyar,Tambaram,14:00,21:00,0
+Route4,Friday,Nungambakkam,Adyar,09:00,18:00,0
+Route3,Tuesday,Velachery,T. Nagar,20:00,16:00,0
